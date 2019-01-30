@@ -1,0 +1,10 @@
+name: usedstat
+title:
+username:
+account: datakate-a
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 674362
+bundleId: 1844464
+url: https://datakate-a.shinyapps.io/usedstat/
+when: 1548797082.19411
